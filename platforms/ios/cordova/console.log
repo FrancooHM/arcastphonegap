@@ -1,0 +1,252 @@
+2015-04-08 23:00:09.256 HelloWorld[1010:25248] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Data/Application/D95F2D83-7415-4677-BC8F-D351AF4EC2F9/Library/Cookies/Cookies.binarycookies
+2015-04-08 23:00:09.355 HelloWorld[1010:25248] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:00:09.356 HelloWorld[1010:25248] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:00:09.378 HelloWorld[1010:25248] Unlimited access to network resources
+2015-04-08 23:00:09.382 HelloWorld[1010:25248] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:00:10.059 HelloWorld[1010:25248] Resetting plugins due to page load.
+2015-04-08 23:00:10.156 HelloWorld[1010:25248] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/97E68434-DAAA-4FC8-88F9-06A37F54E52E/HelloWorld.app/www/index.html
+2015-04-08 23:01:01.446 HelloWorld[1171:26204] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Data/Application/AE696C05-7453-496B-B313-C46970BB2FD7/Library/Cookies/Cookies.binarycookies
+2015-04-08 23:01:01.507 HelloWorld[1171:26204] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:01:01.507 HelloWorld[1171:26204] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:01:01.513 HelloWorld[1171:26204] Unlimited access to network resources
+2015-04-08 23:01:01.515 HelloWorld[1171:26204] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:01:01.628 HelloWorld[1171:26204] Resetting plugins due to page load.
+2015-04-08 23:01:01.674 HelloWorld[1171:26204] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/12B85FE5-D64E-4A6E-BD36-6F02F1ACC677/HelloWorld.app/www/index.html
+2015-04-08 23:01:20.389 HelloWorld[1171:26204] Resetting plugins due to page load.
+2015-04-08 23:01:20.971 HelloWorld[1171:26204] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-08 23:01:20.972 HelloWorld[1171:26204] Resetting plugins due to page load.
+2015-04-08 23:01:21.916 HelloWorld[1171:26204] Finished load of: https://www.google.com.ar/?gws_rd=ssl
+2015-04-08 23:09:28.872 HelloWorld[1584:38963] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:09:28.873 HelloWorld[1584:38963] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:09:28.879 HelloWorld[1584:38963] Unlimited access to network resources
+2015-04-08 23:09:28.882 HelloWorld[1584:38963] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:09:28.999 HelloWorld[1584:38963] Resetting plugins due to page load.
+2015-04-08 23:09:29.039 HelloWorld[1584:38963] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/348F879E-11C4-47EB-99E8-6E7F06CFC488/HelloWorld.app/www/index.html
+2015-04-08 23:10:31.675 HelloWorld[1733:39793] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:10:31.675 HelloWorld[1733:39793] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:10:31.681 HelloWorld[1733:39793] Unlimited access to network resources
+2015-04-08 23:10:31.683 HelloWorld[1733:39793] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:10:31.796 HelloWorld[1733:39793] Resetting plugins due to page load.
+2015-04-08 23:10:31.831 HelloWorld[1733:39793] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/9A04FF66-DE9B-4E89-82E0-3A963FDDCBAF/HelloWorld.app/www/index.html
+2015-04-08 23:11:27.938 HelloWorld[1881:40465] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:11:27.939 HelloWorld[1881:40465] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:11:27.944 HelloWorld[1881:40465] Unlimited access to network resources
+2015-04-08 23:11:27.947 HelloWorld[1881:40465] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:11:28.055 HelloWorld[1881:40465] Resetting plugins due to page load.
+2015-04-08 23:11:28.100 HelloWorld[1881:40465] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/E853ED56-FB5E-4653-A52C-392B09013E3F/HelloWorld.app/www/index.html
+2015-04-08 23:12:01.089 HelloWorld[2026:41097] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:12:01.090 HelloWorld[2026:41097] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:12:01.095 HelloWorld[2026:41097] Unlimited access to network resources
+2015-04-08 23:12:01.097 HelloWorld[2026:41097] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:12:01.215 HelloWorld[2026:41097] Resetting plugins due to page load.
+2015-04-08 23:12:01.261 HelloWorld[2026:41097] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/75CF921F-E6B7-4CC8-A2F7-5D4801DA8DEA/HelloWorld.app/www/index.html
+2015-04-08 23:12:35.699 HelloWorld[2171:41705] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:12:35.700 HelloWorld[2171:41705] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:12:35.705 HelloWorld[2171:41705] Unlimited access to network resources
+2015-04-08 23:12:35.707 HelloWorld[2171:41705] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:12:35.817 HelloWorld[2171:41705] Resetting plugins due to page load.
+2015-04-08 23:12:35.863 HelloWorld[2171:41705] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/18A811B5-008E-4FED-A844-3013ED16C27A/HelloWorld.app/www/index.html
+2015-04-08 23:12:41.986 HelloWorld[2171:41705] Resetting plugins due to page load.
+2015-04-08 23:12:42.697 HelloWorld[2171:41705] Failed to load webpage with error: Plug-in handled load
+Apr  8 23:12:45 Francos-MacBook-Pro.local rtcreporting[2171] <Info>: logging starts...
+Apr  8 23:12:45 Francos-MacBook-Pro.local rtcreporting[2171] <Debug>: setMessageLoggingBlock: called
+Apr  8 23:13:22 Francos-MacBook-Pro.local rtcreporting[2171] <Debug>: initWithSessionInfo: XPC connection interrupted
+2015-04-08 23:54:24.897 HelloWorld[3128:72665] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:54:24.899 HelloWorld[3128:72665] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:54:24.916 HelloWorld[3128:72665] Unlimited access to network resources
+2015-04-08 23:54:24.921 HelloWorld[3128:72665] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:54:25.318 HelloWorld[3128:72665] Resetting plugins due to page load.
+2015-04-08 23:54:49.998 HelloWorld[3280:73495] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:54:50.000 HelloWorld[3280:73495] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:54:50.005 HelloWorld[3280:73495] Unlimited access to network resources
+2015-04-08 23:54:50.008 HelloWorld[3280:73495] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:54:50.196 HelloWorld[3280:73495] Resetting plugins due to page load.
+2015-04-08 23:54:50.247 HelloWorld[3280:73495] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/14ED389B-5DCA-4C7A-952C-409A4238B142/HelloWorld.app/www/index.html
+2015-04-08 23:55:10.430 HelloWorld[3426:74334] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:55:10.431 HelloWorld[3426:74334] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:55:10.437 HelloWorld[3426:74334] Unlimited access to network resources
+2015-04-08 23:55:10.439 HelloWorld[3426:74334] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:55:10.556 HelloWorld[3426:74334] Resetting plugins due to page load.
+2015-04-08 23:55:57.728 HelloWorld[3573:74996] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:55:57.729 HelloWorld[3573:74996] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:55:57.735 HelloWorld[3573:74996] Unlimited access to network resources
+2015-04-08 23:55:57.738 HelloWorld[3573:74996] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:55:57.861 HelloWorld[3573:74996] Resetting plugins due to page load.
+2015-04-08 23:56:00.992 HelloWorld[3573:74996] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/7FE27D5C-44B8-4182-9F30-C224E59B4559/HelloWorld.app/www/index.html
+2015-04-08 23:56:29.570 HelloWorld[3718:75584] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-08 23:56:29.571 HelloWorld[3718:75584] Multi-tasking -> Device: YES, App: YES
+2015-04-08 23:56:29.576 HelloWorld[3718:75584] Unlimited access to network resources
+2015-04-08 23:56:29.579 HelloWorld[3718:75584] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-08 23:56:29.704 HelloWorld[3718:75584] Resetting plugins due to page load.
+2015-04-08 23:56:29.819 HelloWorld[3718:75584] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/C42C69B3-5C37-43DF-8C5A-AB6B03C4741F/data/Containers/Bundle/Application/3097BCF1-61C8-400C-9F2D-2FEB3B315B77/HelloWorld.app/www/index.html
+2015-04-08 23:56:57.379 HelloWorld[3718:75584] Resetting plugins due to page load.
+2015-04-08 23:56:58.153 HelloWorld[3718:75584] Failed to load webpage with error: Plug-in handled load
+Apr  8 23:56:59 Francos-MacBook-Pro.local rtcreporting[3718] <Info>: logging starts...
+Apr  8 23:56:59 Francos-MacBook-Pro.local rtcreporting[3718] <Debug>: setMessageLoggingBlock: called
+Apr  9 00:21:09 Francos-MacBook-Pro.local rtcreporting[3718] <Debug>: initWithSessionInfo: XPC connection interrupted
+2015-04-26 21:14:57.380 HelloWorld[1014:13978] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Data/Application/BD968427-297E-40CA-A9D0-09C2C6840A9C/Library/Cookies/Cookies.binarycookies
+2015-04-26 21:14:57.456 HelloWorld[1014:13978] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:14:57.457 HelloWorld[1014:13978] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:14:57.483 HelloWorld[1014:13978] Unlimited access to network resources
+2015-04-26 21:14:57.488 HelloWorld[1014:13978] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:14:58.110 HelloWorld[1014:13978] Resetting plugins due to page load.
+2015-04-26 21:15:01.292 HelloWorld[1014:13978] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Bundle/Application/F5478371-BF53-40E6-B6EC-96AF9E2C623A/HelloWorld.app/www/index.html
+2015-04-26 21:16:31.334 HelloWorld[1173:14937] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Data/Application/78C2345D-D0DC-4D8F-9C3D-6B4FCF6330BF/Library/Cookies/Cookies.binarycookies
+2015-04-26 21:16:31.443 HelloWorld[1173:14937] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:16:31.443 HelloWorld[1173:14937] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:16:31.449 HelloWorld[1173:14937] Unlimited access to network resources
+2015-04-26 21:16:31.451 HelloWorld[1173:14937] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:16:31.574 HelloWorld[1173:14937] Resetting plugins due to page load.
+2015-04-26 21:16:31.738 HelloWorld[1173:14937] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Bundle/Application/27775222-568D-4BF0-9E1E-826D163FCCDC/HelloWorld.app/www/index.html
+2015-04-26 21:16:56.186 HelloWorld[1320:15433] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Data/Application/00A5E2A0-93FB-4622-92AE-5916C90A66BB/Library/Cookies/Cookies.binarycookies
+2015-04-26 21:16:56.312 HelloWorld[1320:15433] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:16:56.313 HelloWorld[1320:15433] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:16:56.321 HelloWorld[1320:15433] Unlimited access to network resources
+2015-04-26 21:16:56.324 HelloWorld[1320:15433] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:16:56.447 HelloWorld[1320:15433] Resetting plugins due to page load.
+2015-04-26 21:16:56.502 HelloWorld[1320:15433] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Bundle/Application/1FC6312F-E52B-4053-B488-9162763F8940/HelloWorld.app/www/index.html
+2015-04-26 21:18:12.705 HelloWorld[1471:16270] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Data/Application/8FDA123B-90E3-44C1-A2DE-889A4F97007A/Library/Cookies/Cookies.binarycookies
+2015-04-26 21:18:12.854 HelloWorld[1471:16270] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:18:12.854 HelloWorld[1471:16270] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:18:12.859 HelloWorld[1471:16270] Unlimited access to network resources
+2015-04-26 21:18:12.862 HelloWorld[1471:16270] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:18:13.012 HelloWorld[1471:16270] Resetting plugins due to page load.
+2015-04-26 21:18:39.805 HelloWorld[1616:16725] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Data/Application/8BF1F217-9A3C-4C01-96F6-6AAE62509FF8/Library/Cookies/Cookies.binarycookies
+2015-04-26 21:18:39.929 HelloWorld[1616:16725] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:18:39.929 HelloWorld[1616:16725] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:18:39.936 HelloWorld[1616:16725] Unlimited access to network resources
+2015-04-26 21:18:39.938 HelloWorld[1616:16725] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:18:40.058 HelloWorld[1616:16725] Resetting plugins due to page load.
+2015-04-26 21:18:45.886 HelloWorld[1616:16725] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-26 21:18:45.886 HelloWorld[1616:16725] Resetting plugins due to page load.
+2015-04-26 21:18:47.526 HelloWorld[1616:16725] Finished load of: http://stackoverflow.com/
+2015-04-26 21:19:48.188 HelloWorld[1763:17370] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:19:48.189 HelloWorld[1763:17370] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:19:48.194 HelloWorld[1763:17370] Unlimited access to network resources
+2015-04-26 21:19:48.197 HelloWorld[1763:17370] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:19:48.314 HelloWorld[1763:17370] Resetting plugins due to page load.
+2015-04-26 21:19:53.187 HelloWorld[1763:17370] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Bundle/Application/2C2B7B00-1C56-4F9D-BB5B-1076E2060AD6/HelloWorld.app/www/index.html
+2015-04-26 21:19:53.190 HelloWorld[1763:17370] Resetting plugins due to page load.
+2015-04-26 21:19:53.953 HelloWorld[1763:17370] Failed to load webpage with error: Plug-in handled load
+2015-04-26 21:20:22.317 HelloWorld[1910:18002] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-26 21:20:22.318 HelloWorld[1910:18002] Multi-tasking -> Device: YES, App: YES
+2015-04-26 21:20:22.329 HelloWorld[1910:18002] Unlimited access to network resources
+2015-04-26 21:20:22.337 HelloWorld[1910:18002] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-04-26 21:20:22.481 HelloWorld[1910:18002] Resetting plugins due to page load.
+2015-04-26 21:20:32.700 HelloWorld[1910:18002] Finished load of: file:///Users/francoagustinrabaglia/Library/Developer/CoreSimulator/Devices/B053321E-C1AE-4226-8B82-797E175F53D9/data/Containers/Bundle/Application/2A2E4C02-5F70-4309-9121-14F5E0244141/HelloWorld.app/www/index.html
+2015-04-26 21:20:32.705 HelloWorld[1910:18002] Resetting plugins due to page load.
+2015-04-26 21:20:33.316 HelloWorld[1910:18002] Failed to load webpage with error: Plug-in handled load
